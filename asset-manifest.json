@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/demo-kodegon/static/css/main.2c5b0827.css",
+    "main.js": "/demo-kodegon/static/js/main.69ff5057.js",
+    "static/media/Banner.png": "/demo-kodegon/static/media/Banner.4e56aee21a5ccb0ee94c.png",
+    "static/media/Roboto-Medium.ttf": "/demo-kodegon/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Bold.ttf": "/demo-kodegon/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/img-2.png": "/demo-kodegon/static/media/img-2.1ddb4793255b19ef2145.png",
+    "static/media/img-1.png": "/demo-kodegon/static/media/img-1.794d431e0ceec54b109a.png",
+    "static/media/img-3.png": "/demo-kodegon/static/media/img-3.05cbc5b4758d168a2c10.png",
+    "index.html": "/demo-kodegon/index.html",
+    "main.2c5b0827.css.map": "/demo-kodegon/static/css/main.2c5b0827.css.map",
+    "main.69ff5057.js.map": "/demo-kodegon/static/js/main.69ff5057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5b0827.css",
+    "static/js/main.69ff5057.js"
+  ]
+}
